@@ -1,2 +1,2 @@
 # Test_coursera1
-I am editing the README file. Adding some more details about the project description.
+I am Editing the README file. Adding some more details about the project description.
